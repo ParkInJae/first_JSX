@@ -1,3 +1,7 @@
+# git pull 
+pull 을 통해서 내용을 받을 수 있음 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
