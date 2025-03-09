@@ -45,19 +45,32 @@ pull 을 통해서 내용을 받을 수 있음
 -- 커밋에 파일 변경 사항을 한번에 모두 포함 해서 add로 추가함 
 ex :: git add . 
 
+![alt text](image-6.png)
+
+(생략 가능)
+git status 
+--  파일의 상태를 확인할 수 있음 
+ex :: git add . 후 git status를 사용한다면 아래의 이미지를 확인할 수 있음 
+
+![alt text](image-2.png)
+
 2. git commit -m "커밋 메시지" 
 --  커밋 생성 (기존 파일의 변경사항을 확정)
 ex :: git commit -m "Update README" 
+
+![alt text](image-4.png)
 
 3. git push origin "브랜치이름" 
 --  commit을 통해 변경한 사항을 원격 서버에 업로드함 
 ex :: git push origin -m master 
 
+![alt text](image-3.png)
+
 4.  git pull 
 -- 원격 저장소의 변경 내용이 현재 디렉토리에 가져와지고(fetch) 병합됨 (merge)
 ex :: git pull
 
-
+![alt text](image-5.png)
 
 
 
