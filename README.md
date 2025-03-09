@@ -40,7 +40,6 @@ https://code.visualstudio.com/download
 6. 위의 내용을 통해서 git의 내용을 가져온 걸 확인할 수 있다. 
 
 
-
 <hr>
 
 * 깃 허브 push 및 pull로 받는 순서 
@@ -73,10 +72,13 @@ ex :: git push origin -m master
 4.  git pull 
 -- 원격 저장소의 변경 내용이 현재 디렉토리에 가져와지고(fetch) 병합됨 (merge)
 ex :: git pull
-
+ 변경 사항이 없을 때 pull 하면 나오는 이미지 
+ 
 ![alt text](image-5.png)
 
+변경 사항이 존재할 때 pull 하면 나오는 이미지 
 
+![alt text](image-7.png)
 
 
 
