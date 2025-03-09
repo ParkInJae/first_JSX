@@ -4,6 +4,9 @@
 # git init 
 .git 하위 디렉토리 생성함 
 
+# git add . 
+커밋에 모든 파일 변경 사항을 포함 
+
 # git pull 
 pull 을 통해서 내용을 받을 수 있음 
 
@@ -36,10 +39,10 @@ https://code.visualstudio.com/download
 
 6. 위의 내용을 통해서 git의 내용을 가져온 걸 확인할 수 있다. 
 
-# git add . 
-커밋에 모든 파일 변경 사항을 포함 
+
 
 <hr>
+
 * 깃 허브 push 및 pull로 받는 순서 
 
 1. git add .
@@ -82,6 +85,7 @@ ex :: git pull
 
 
 <hr>
+
 * 리엑트 관련된 내용 
 
 
