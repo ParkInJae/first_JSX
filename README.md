@@ -1,5 +1,6 @@
 // git과 관련된 주요 내용 
 
+-- 기존 존재하는 프로젝트를 다운 받는게 아닌 새로운 프로젝트를 생성 후 git의 새로운 repository와 연동시키기 위해서는 먼저 git init을 사용해야한다. 
 # git init 
 .git 하위 디렉토리 생성함 
 
@@ -10,7 +11,7 @@ pull 을 통해서 내용을 받을 수 있음
 
 * VSCode 기준 
 1. F1 누른 후 git clone 검색 
-
+https://code.visualstudio.com/download
 2. 깃허브 계정과 연동 
 
 3. 깃허브 연동시 git repository URL 입력 및 git repository를 선택할 수 있음 
