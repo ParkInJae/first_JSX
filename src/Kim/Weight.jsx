@@ -7,5 +7,5 @@ function Weight(props){
         </div>
     )
 }
-
+ 
 export default Weight;

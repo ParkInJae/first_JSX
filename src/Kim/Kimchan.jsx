@@ -9,5 +9,5 @@ function Kimchan(props){
         </div>
     )
 }
-
+  
 export default Kimchan;  // 올바른 컴포넌트를 내보내도록 수정
