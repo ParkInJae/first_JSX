@@ -13,7 +13,7 @@ pull 을 통해서 내용을 받을 수 있음
 -- 미리 만들어진 git을 다른 컴퓨터에서 받아올 때  
 
 * VSCode 기준 
-1. F1 누른 후 git clone 검색 
+1. F1 누른 후 git clone 검색 <br/> 
 ![image](https://github.com/user-attachments/assets/cc710286-9e9f-4865-88e3-2ccb5fa57097)
 
 2. 깃허브 계정과 연동 
