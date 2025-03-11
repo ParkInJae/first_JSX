@@ -1,6 +1,6 @@
 import React from "react";
 
-function Book2(props){
+function Weight(props){
     return(
         <div>
             <h2>{`오늘의 ${props.name}는 ${props.numOfPage}입니다.`}</h2>
@@ -8,4 +8,4 @@ function Book2(props){
     )
 }
 
-export default Book2;
+export default Weight;
