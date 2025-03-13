@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import Library from './chapter_03/Library';
+import Library from './chapter_03/Library'; // import를 사용해서 Library 컴포넌트를 가져옴 
 import Kimchan from './Kim/Kimchan';
 
 //우리가 만든 컴포넌트를 실제로 화면에 렌더링 하기 위해서  Library 컴포넌트를 가져온 뒤 
