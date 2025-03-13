@@ -1,7 +1,8 @@
 import React from "react";
-import Book from "./Book";
+import Book from "./Book"; 
 
-function Library(props){
+// Book 컴포넌트를 사용하는 상위 컴포넌트
+function Library(props){ // 컴포넌트 
     return(
         <div>
             <Book name ="처음 만난 파이썬" numOfPage={300}/>
